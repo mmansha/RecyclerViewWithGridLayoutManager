@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RecyclerViewer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_card_title">Add Card</string>
+    <string name="add_new_card_title">New Card Input Screen</string>
+    <string name="add_image_button_text">Add Image</string>
+    <string name="save_to_db">Save</string>
+</resources>
